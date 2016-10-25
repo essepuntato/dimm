@@ -1,0 +1,2 @@
+# dimm
+DIMM is able to convert (via D2RQ) modules of data according to specific needs, and allows to specify conversion strategies referred to single conversion modules as well as entire directories containing several conversion modules. Independently from the conversion modules used, the result of the conversion is a Turtle conversion document that is created by gathering the rules included in the input conversion modules used.
